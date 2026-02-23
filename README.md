@@ -38,8 +38,8 @@ Logotipo:
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
 Miembros y nombre del equipo:
- * :bust_in_silhouette:  AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * Rubi Rodríguez Anguita     
+ * Rubén Gazquéz Gallardo
 
 >>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
 
@@ -56,23 +56,46 @@ Miembros y nombre del equipo:
 <br>
 
 ## Paso 1. UX User & Desk Research & Analisis 
-
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
-
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+**[Cafetotal](https://www.cafetotal.es)** es un referente en Motril para quienes buscamos un buen café. Como consumidores habituales que disfrutamos de su producto, analizaremos la web para ver si la experiencia digital es tan satisfactoria como tomarse una de sus tazas de café.
 
+Comenzaremos con una **visita a sus instalaciones y puntos de servicio** para comprobar si la imagen de marca profesional y la cercanía que percibimos en el trato directo se reflejan fielmente en la web. Evaluaremos si la información sobre el origen del café y el servicio técnico que ofrecen en persona es fácil de encontrar online.
+
+Luego, realizaremos un **estudio de usabilidad** con perfiles de "coffee lovers" y pequeños empresarios que, aunque conocen la calidad de Cafetotal, nunca han utilizado su plataforma para gestionar pedidos o servicios.
+
+El estudio incluirá:
+- **Pruebas de usuario**, en las que los participantes intentarán realizar tareas como realizar diferentes pedidos o simular otra reserva.
+- **Entrevistas**, para descubrir si la web transmite la misma confianza y "aroma" de calidad que su producto físico, o si por el contrario resulta fría y confusa.
+- **Encuestas**, donde los usuarios valorarán la claridad del menú, la facilidad para contactar con el servicio y la agilidad del proceso de compra.
+
+El objetivo es identificar qué barreras impiden que un amante del café se convierta en un cliente digital recurrente y asegurar que la web sea una extensión perfecta de su excelente servicio presencial.
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+Hemos seleccionado **Cafetotal** para este análisis porque, a pesar de ser la opción con el modelo de negocio más completo —combinando tiendas físicas, servicios B2B y venta online—, es la que presenta retos de usabilidad más evidentes. Como usuarios que disfrutamos de su café en el día a día, sentimos que su plataforma digital no siempre refleja esa calidad técnica de forma fluida.
 
+Para ponerla en contexto, la hemos comparado con **Gran Café Bib-Rambla**, un referente de la tradición granadina, y **Mundys**, que destaca por una propuesta visualmente más limpia. A continuación, se detallan las conclusiones extraídas de nuestra comparativa
+
+![](https://i.imgur.com/M0S3Gdd.png)
+
+En conclusion, Cafetotal se sitúa como la plataforma más ambiciosa a nivel de servicios, siendo la única que ofrece venta online y servicios a otras empresas. Sin embargo, esta complejidad juega en su contra en la experiencia de usuario: mientras que Mundys ofrece una interfaz "bonita y simple", la web de Cafetotal se percibe sobrecargada y con obstáculos innecesarios, como la obligatoriedad de loguearse para realizar pedidos en mesa.
+
+Frente a la sencillez de Gran Café Bib-Rambla, que apuesta por un flujo bien guiado y organizado, Cafetotal tiene una jerarquía de información por categorías que, aunque completa, puede resultar confusa por el exceso de elementos visuales y fallos en el contraste de las imágenes.
+
+Para estar a la altura de su competencia y de su propio producto físico, Cafetotal debería trabajar en:
+
+- Simplificar la interfaz: Eliminar la carga visual innecesaria para acercarse a la limpieza de Mundys.
+
+- Optimizar el flujo de pedido: Eliminar barreras como el inicio de sesión obligatorio para mejorar la conversión.
+
+- Mejorar la legibilidad: Corregir los problemas de contraste y asegurar que el texto sea accesible para todos los usuarios (WCAG).
+
+En definitiva, Cafetotal tiene el mejor motor de negocio, pero necesita una carrocería digital más ligera y accesible para que la experiencia de compra sea tan placentera como sus tazas de café.
 
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
@@ -284,7 +307,6 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 
 >>> Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos. ¿Qué se puede mejorar? Recuerda que este tipo de texto se debe eliminar del template que se os proporciona 
-
 
 
 
