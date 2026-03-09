@@ -6,22 +6,11 @@ Prácticas Diseño Interfaces de Usuario (Tema: .... )
 * Sala de la Fama [DIU Hall of fame](https://github.com/mgea/DIU/tree/master/hall_of_fame) donde se pueden encontrar Case Study destacados de otros años.
 
 
-
-
-Actualizado: 14/01/2026
-
-
-
+Actualizado: 09/03/2026
 
 ## Paso 0 My UX-Case Study
 ![Método UX](img/caseStudy.png) 
 -----
-
->>> Este documento es el esqueleto del Case Study que explica el proceso de desarrollo de las 5 prácticas de DIU. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este tipo de texto / comentarios desde la práctica 1 conforme proceda a cada paso
-
-
->>> Hay que Publicar de forma incremental "my Case Study" en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
 
 Grupo: DIU2_TeamChurro.  Curso: 2025/26 
 
@@ -100,26 +89,56 @@ En definitiva, Cafetotal tiene el mejor motor de negocio, pero necesita una carr
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
 -----
+**Mara Gómez**
+![](https://i.imgur.com/wVjrguO.png)
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
+Como se puede ver en su perfil, a Marta le preocupa la productividad y el bienestar de su equipo en la oficina. Una de sus prioridades es encontrar soluciones eficientes que funcionen de manera autónoma para poder centrarse en la gestión de personas sin distracciones técnicas. Por lo tanto, Marta puede ser una persona a la que le llame la atención **Cafetotal** para profesionalizar el servicio de café en su empresa a través de sus soluciones integrales de vending y mantenimiento técnico.
 
+**Javier Ruiz**
+![](https://i.imgur.com/eMzZC0O.png)
+
+A Javi le apasiona el café de especialidad y busca entornos locales que le permitan trabajar de forma flexible mientras disfruta de un producto de alta calidad. Valora enormemente la agilidad digital y el ahorro de tiempo, prefiriendo procesos sencillos que no interrumpan su flujo de trabajo creativo. Por lo tanto, Javi es un perfil que encaja perfectamente con el ambiente de los locales físicos de **Cafetotal**, aunque representa al usuario que demanda una experiencia digital más fluida y sin barreras.
 
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
+Vemos los Journey Maps de ambos respectivamente
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
+![](https://i.imgur.com/8321OtE.png)
 
+
+![](https://i.imgur.com/EKHzpes.png)
+
+
+Los dos journey maps presentan experiencias de usuario bastante habituales en el contexto de cafeterías y servicios de vending. En ambos se ven problemas de la web, enseñando la importancia la experiencia de usuario en términos de agilidad en los procesos, eliminación de fricciones innecesarias y una organización de contenidos.
+
+**Marta** muestra un perfil profesional que busca eficiencia, enfrentándose a dificultades en la jerarquía de la información y la falta de un camino claro para empresas. La web intenta abarcar múltiples modelos de negocio sin separar la experiencia B2B de la venta directa. 
+
+Por otro lado, la experiencia de **Javi Ruiz**, un cliente habitual y trabajador remoto, muestra cómo las barreras tecnológicas como la obligatoriedad de registro para realizar pedidos rápidos en mesa pueden empañar un producto físico de alta calidad. 
 
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
 ----
+Enlace al documento (pdf): [Usability review](P1/Usability_Review_Cafetotal.pdf)
+Puntuación Obtenida: 52 Moderate
 
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+Cafétotal ofrece una aplicación funcional que permite cumplir con el objetivo principal de realizar pedidos en mesa a través de códigos QR. Sin embargo, la experiencia de usuario se ve lastrada por problemas significativos en la navegación, la falta de herramientas de búsqueda y una interfaz que resulta intrusiva y poco intuitiva.
 
+**Puntos fuertes:**
+- **Acceso directo mediante QR:** Facilita la tarea principal de pedir a mesa de forma accesible.
+- **Gestión de errores eficiente:** Los mensajes de error son claros, concisos y fáciles de identificar por el usuario.
+- **Soporte de navegación estándar:** Compatible con las funciones de "atrás" y "adelante" del navegador.
+- **Contacto claro:** El acceso a ayuda externa y datos de contacto está bien indicado y es sencillo de encontrar.
+
+**Puntos débiles:**
+- **Interfaz de inicio intrusiva:** El uso de pop-ups iniciales y la falta de indicadores de desplazamiento (scroll) dificultan la comprensión de las funciones disponibles.
+- **Navegación desorientadora:** No se indica la ubicación actual del usuario en las secciones y el "menú profesional" redirige a páginas externas no seguras.
+- **Ausencia de buscadores:** No existen opciones de búsqueda ni filtros, lo que complica encontrar productos o información específica.
+- **Inconsistencia en el contenido:** Se mezclan idiomas en diferentes ventanas y la terminología utilizada no es consistente en toda la aplicación.
+- **Rendimiento mejorable:** Hay tiempos de carga lentos tanto en imágenes como en bloques de texto.
+- **Deficiencias en accesibilidad:** Presenta un mal contraste visual y falta de soporte para usuarios con distintos niveles de experiencia e idiomas.
+
+**Conclusión:** El sistema permite completar las tareas más importantes, pero la experiencia de usuario es muy mejorable. Es prioritario optimizar la navegación interna, añadir funciones de búsqueda y corregir las inconsistencias lingüísticas y de diseño para evitar la frustración del cliente y agilizar el proceso de pedido.
 <br>
 
 ## Paso 2. UX Design  
