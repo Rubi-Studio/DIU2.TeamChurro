@@ -14,21 +14,18 @@ Actualizado: 09/03/2026
 
 Grupo: DIU2_TeamChurro.  Curso: 2025/26 
 
-Nombre del Proyecto: 
-
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Nombre del Proyecto: Reformando Cafetotal
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+El proyecto Reformando Cafetotal tiene como objetivo alinear la calidad de su café de especialidad con una plataforma digital eficiente que elimine barreras críticas de uso. La iniciativa propone rediseñar la experiencia del usuario para que sea ágil y profesional, eliminando el registro obligatorio en pedidos por QR y segmentando claramente los servicios para particulares de las soluciones de vending para empresas. En definitiva, busca transformar la web en una herramienta multilingüe y accesible que facilite tanto el consumo en local como la contratación corporativa sin fricciones.
 
 Logotipo: 
-
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
 Miembros y nombre del equipo:
- * Rubi Rodríguez Anguita     
- * Rubén Gazquéz Gallardo
+ * [Rubi Rodríguez Anguita](https://github.com/Rubi-Studio)
+ * [Rubén Gazquéz Gallardo](https://github.com/rubengg1)
 
 >>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
 
@@ -143,30 +140,31 @@ Cafétotal ofrece una aplicación funcional que permite cumplir con el objetivo 
 
 ## Paso 2. UX Design  
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
-### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
+### 2.a EMpathy map 
 ![Método UX](img/feedback-capture-grid.png) 
 ----
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
+El Mapa de Empatía revela una desconexión entre valoración del producto físico y la frustración digital. Mientras Marta y Javi destacan la calidad del café de especialidad y el ambiente acogedor para trabajar, coinciden en que la obligatoriedad de registrarse para pedir y la complejidad de la web restan confianza y rompen su ritmo de trabajo.
+
+En definitiva, las "ganancias" se centran en la excelencia técnica del servicio presencial, pero se ven opacadas por "dolores" como el cargo por terraza y, sobre todo, una experiencia de usuario (UX) online que hace como de barrera a un producto de calidad.
 
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
+![](https://i.imgur.com/a5Nd0oX.png)
+
+
+**El Problema:** La experiencia digital de Cafetotal genera desconfianza y frustración debido a procesos lentos, como el registro obligatorio para pedidos rápidos, y una interfaz saturada que no diferencia entre clientes particulares y empresas. Esto rompe el flujo de trabajo del usuario y empaña la excelente reputación del producto físico.
+
+**Hipótesis y Propuesta de Valor:** Nuestra propuesta se basa en eliminar las barreras de acceso (registro forzado) y simplificar la arquitectura para segmentar adecuadamente los servicios B2B y B2C. Planteamos que un diseño centrado en la agilidad y la claridad visual transformará la plataforma en una herramienta eficiente, alineando la calidad digital con la calidad del café de especialidad.
 
 
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
 ----
 
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
+Cafetotal propone una experiencia cafetera de alta calidad, profesional y conectada con las necesidades tanto de particulares como de empresas. A través de una oferta integral que combina café de especialidad con soluciones avanzadas de vending, buscamos profesionalizar el servicio de café en Granada, facilitando el acceso a productos premium sin las fricciones tecnológicas que actualmente interrumpen el flujo del usuario. Nuestro objetivo es rediseñar la experiencia digital para que sea ágil, multilingüe y funcional, eliminando barreras como el registro obligatorio para pedidos en mesa y optimizando la arquitectura web para diferenciar claramente los servicios corporativos de la venta directa.
+
+![](https://i.imgur.com/dxSyGEe.png)
+
 
 
 
