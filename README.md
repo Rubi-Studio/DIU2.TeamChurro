@@ -172,7 +172,21 @@ Cafetotal propone una experiencia cafetera de alta calidad, profesional y conect
 ![Método UX](img/Sitemap.png) 
 -----
 
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
+Para el análisis de tareas de **Cafetotal**, se ha desarrollado una **User/Task Matrix** que cruza los perfiles de usuario con las acciones clave de la plataforma. Esta herramienta permite priorizar las funcionalidades más frecuentes, facilitando la toma de decisiones de diseño para resolver puntos de dolor específicos y optimizar la navegación.
+
+![](https://i.imgur.com/ecJHcwC.png)
+
+A partir de esta matriz, se han definido los recorridos principales para validar que el diseño responde a las necesidades de los usuarios de forma eficiente:
+
+- **Pedido en Mesa:** Flujo optimizado vía QR que permite navegar por el menú y pagar directamente, con inicio de sesión opcional para evitar fricciones.
+    
+- **Pedido Vending:** Recorrido orientado a empresas para la selección de productos o la solicitud de presupuestos personalizados mediante formularios de contacto.
+
+**Pedido en mesa**
+![](https://i.imgur.com/GOo1Kbf.png)
+
+**Pedido de Vending**
+![](https://i.imgur.com/WUQPcvW.png)
 
 
 ### 2.c IA: Sitemap + Labelling 
@@ -181,9 +195,13 @@ Cafetotal propone una experiencia cafetera de alta calidad, profesional y conect
 
 >>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
 
-Término | Significado     
-| ------------- | -------
-  Login  | acceder a plataforma
+
+![](https://i.imgur.com/BxCzKQ9.png)
+
+
+| Término | Significado |
+| ------- | ----------- |
+|         |             |
 
 
 ### 2.d Wireframes
