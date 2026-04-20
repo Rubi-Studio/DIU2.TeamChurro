@@ -194,32 +194,28 @@ A partir de esta matriz, se han definido los recorridos principales para validar
 ----
 
 Diagrama tipo sitemap
-![](https://i.imgur.com/BxCzKQ9.png)
+![](https://i.imgur.com/Kaj8dAX.png)
 
 
-|**Término**|**Significado**|
-|---|---|
-|**Inicio**|Página principal o "Home" desde donde se ramifica toda la navegación de la plataforma.|
-|**Hacer Pedido**|Sección de venta directa (B2C) optimizada para pedidos rápidos, accesible vía web o QR.|
-|**Código QR**|Punto de acceso físico en el local que dirige al usuario directamente al flujo de pedido en mesa.|
-|**Menú / Información**|Catálogo digital donde el usuario consulta productos, precios y detalles específicos.|
-|**Carrito y Compra**|Espacio de gestión de productos seleccionados y formalización del pago final.|
-|**Cuenta**|Módulo de gestión de usuario que permite el acceso (Login) o la creación de un nuevo perfil.|
-|**Vending**|Sección exclusiva para servicios profesionales (B2B) relacionados con máquinas y suministros.|
-|**Solicitud Presupuesto**|Herramienta para que las empresas pidan una valoración económica personalizada.|
-|**Datos de contacto**|Formulario final del flujo de Vending necesario para que el equipo comercial responda al cliente.|
-|**Opcional / Obligatorio**|Conectores lógicos que indican si el registro es necesario (Vending) o sugerido (Pedido en mesa).|
+| **Término**                | **Significado**                                                                                   |
+| -------------------------- | ------------------------------------------------------------------------------------------------- |
+| **Inicio**                 | Página principal o "Home" desde donde se ramifica toda la navegación de la plataforma.            |
+| **Pedido en Mesa**         | Sección de venta directa (B2C) optimizada para pedidos rápidos, accesible vía web o QR.           |
+| **Código QR**              | Punto de acceso físico en el local que dirige al usuario directamente al flujo de pedido en mesa. |
+| **Menú / Información**     | Catálogo digital donde el usuario consulta productos, precios y detalles específicos.             |
+| **Carrito y Compra**       | Espacio de gestión de productos seleccionados y formalización del pago final.                     |
+| **Cuenta**                 | Módulo de gestión de usuario que permite el acceso (Login) o la creación de un nuevo perfil.      |
+| **Vending**                | Sección exclusiva para servicios profesionales (B2B) relacionados con máquinas y suministros.     |
+| **Solicitud Presupuesto**  | Herramienta para que las empresas pidan una valoración económica personalizada.                   |
+| **Datos de contacto**      | Formulario final del flujo de Vending necesario para que el equipo comercial responda al cliente. |
+| **Opcional / Obligatorio** | Conectores lógicos que indican si el registro es necesario (Vending) o sugerido (Pedido en mesa). |
 ### 2.d Wireframes
 ![Método UX](img/Wireframes.png) 
 -----
 
 Hemos usado assets de Figma para maquetar unos wireframes mínimos.
 
-
-![](https://i.imgur.com/f72JP7e.png)
-
-
-![](https://i.imgur.com/YaP9Gc6.png)
+![](https://i.imgur.com/zfI58Q8.png)
 
 <br>
 
