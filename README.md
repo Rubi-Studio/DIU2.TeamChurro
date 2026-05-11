@@ -309,14 +309,7 @@ La información de los patrones de diseño y la identidad visual de **Cafetotal*
 
 Enlace a la web de figma
 
-![Web Nueva de Cafetotal](https://bobbin-floral-41167854.figma.site)
-
-
-### 4.b Documentación con Storybook
-![Método UX](img/usabilityReview.png)
-----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
+[Web Nueva de Cafetotal](https://bobbin-floral-41167854.figma.site)
 
 
 <br>
