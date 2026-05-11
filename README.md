@@ -279,10 +279,21 @@ La información de los patrones de diseño y la identidad visual de **Cafetotal*
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
 ----
-####Landing Page
-<img width="732" height="777" alt="image" src="https://github.com/user-attachments/assets/f14990bc-b3f4-43b1-ace4-5a14c447e508" />
+#### Landing Page
+<img width="2688" height="2852" alt="image" src="https://github.com/user-attachments/assets/33f3b981-3794-4334-a352-d08350d52c59" />
 
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
+#### Pedido en mesa
+<img width="2726" height="3046" alt="image" src="https://github.com/user-attachments/assets/88d54d7b-6b49-44ec-a409-06b802df7384" />
+
+#### Vending
+<img width="2718" height="3164" alt="image" src="https://github.com/user-attachments/assets/32367989-1d88-452d-bd6f-1d1ccf61b70c" />
+
+#### Contacto
+<img width="2432" height="1926" alt="image" src="https://github.com/user-attachments/assets/25774030-432e-4b33-9478-726a855f8bc4" />
+
+#### Registro
+<img width="2622" height="1900" alt="image" src="https://github.com/user-attachments/assets/8c3697a7-8411-410d-8069-182b55a1a239" />
+
 
 
 <br>
