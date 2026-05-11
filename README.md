@@ -293,7 +293,7 @@ La información de los patrones de diseño y la identidad visual de **Cafetotal*
 
 #### Registro
 <img width="2622" height="1900" alt="image" src="https://github.com/user-attachments/assets/8c3697a7-8411-410d-8069-182b55a1a239" />
------
+----
 
 >>>Enlace al prototipo de figma: https://www.figma.com/proto/v3NfpTMoMw1YoxyAqY1P09/DIU-FIGMA?node-id=0-1&t=0jU18fzIzbefaaBS-1
 
