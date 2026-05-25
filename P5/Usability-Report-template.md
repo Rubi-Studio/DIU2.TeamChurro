@@ -12,7 +12,7 @@
 
 ### Realizado por:
 
-Este informe ha sido realizado por el equipo del proyecto **Cafetotal**, dentro de la Práctica 4 de la asignatura DIU. Contamos con experiencia previa en la definición de arquitectura de información, diseño de wireframes simplificados y la evaluación de la experiencia de usuario mediante herramientas de recogida de datos cuantitativos (Tally/SUS) y biométricos (GazeMapping).
+Este informe ha sido realizado por el equipo del proyecto **Cafetotal**, dentro de la Práctica 5 de la asignatura DIU. Contamos con experiencia previa en la definición de arquitectura de información, diseño de wireframes simplificados y la evaluación de la experiencia de usuario mediante herramientas de recogida de datos cuantitativos (Tally/SUS) y biométricos (GazeMapping).
 
 ---
 
@@ -54,7 +54,7 @@ Se realizaron pruebas con usuarios simulando escenarios de navegación habituale
 
 ### Resultados obtenidos
 
-- **SUS Score promedio**: 60.00 (categoría: "Marginalmente Aceptable" / Grado D).
+- **SUS Score promedio**: 56.5 (categoría: "OK" / Grado D).
 - **Tareas guiadas**: Completadas con éxito por los perfiles más jóvenes (U1B, U4B), pero con severas ralentizaciones. El usuario con menor experiencia digital (U5B) sufrió un bloqueo crítico en el proceso de reserva.
 - **Eye Tracking**: Concentración masiva de fijaciones en las ilustraciones decorativas de los personajes (hotspots), dejando los precios, botones de compra y llamadas a la acción en zonas de total silencio visual.
 
