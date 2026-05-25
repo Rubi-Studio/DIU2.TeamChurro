@@ -1,77 +1,86 @@
 # Usability Report
 
+![usability Download png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF017nhV-TFmNER2OM8UbXtdN6xwAKBYrv0i6onNfKu6Yn0BV0RK6aiOroeXl73LSY-B0&usqp=CAU)
 
+#### Evaluación de usabilidad del proyecto
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF017nhV-TFmNER2OM8UbXtdN6xwAKBYrv0i6onNfKu6Yn0BV0RK6aiOroeXl73LSY-B0&usqp=CAU" alt="usability Download png" style="height:150px" />
+### Restaurante Temático Ghibli (Caso B)
 
-### Evaluación de usabilidad del proyecto  [NOMBRE PROYECTO]
+### 25/05/2026
 
-[Fecha]
+[Enlace a GITHUB del proyecto: https://github.com/usuario/diu-ramen-ghibli]
 
-[img Proyecto]
+### Realizado por:
 
-[Enlace a GITHUB del proyecto]
+Este informe ha sido realizado por el equipo del proyecto **Cafetotal**, dentro de la Práctica 4 de la asignatura DIU. Contamos con experiencia previa en la definición de arquitectura de información, diseño de wireframes simplificados y la evaluación de la experiencia de usuario mediante herramientas de recogida de datos cuantitativos (Tally/SUS) y biométricos (GazeMapping).
 
-### Realizado por:  
+---
 
-[Informe realizado por Equipo (quien hace el report) explicar brevemente vuestra experiencia ]
+## 1. DESCRIPCIÓN DEL WEBSITE
 
+El sitio web evaluado corresponde a un restaurante temático japonés de ramen ambientado en el universo visual de las películas de Studio Ghibli. Su propuesta digital busca sumergir al usuario en una experiencia nostálgica y mágica mientras facilita acciones comerciales esenciales como la consulta de la carta de platos, la verificación de alérgenos y la reserva de mesas temáticas en el local.
 
- 
+---
 
+## 2. RESUMEN EJECUTIVO
 
-## 1 RESUMEN EJECUTIVO  (Executive Summary)
+Este documento recoge la evaluación de usabilidad de la plataforma del Restaurante Ghibli (Caso B) mediante pruebas con usuarios reales, aplicando técnicas de tareas guiadas, cuestionario SUS y análisis predictivo de seguimiento ocular (Eye Tracking).
 
-[ Es la sección más importante para los interesados (stakeholders). Debe ocupar una sola página] .
+**Principales problemas detectados:**
+- **Sesgo de estética-usabilidad:** El fuerte impacto de las ilustraciones distrae a los usuarios de los objetivos principales de conversión.
+- **Falta de affordance e interacción clara:** Elementos interactivos del menú se camuflan como simples decoraciones de fondo, causando desorientación.
+- **Barrera de accesibilidad universal:** Los usuarios con competencias digitales medias-bajas sufren bloqueos severos debido al minimalismo extremo y la falta de contrastes legibles.
 
-- **Objetivo:** ¿Qué evaluamos y por qué?
-- **Metodología:** Breve mención del A/B Testing, SUS y Eye Tracking.
-- **Principales Hallazgos:** Los 3 puntos más críticos encontrados.
-- **Resultado Global:** Puntuación SUS media y si el diseño es "Aceptable" o no.
+---
 
+## 3. METODOLOGÍA
 
-## 2. Metodología y Reclutamiento
+### Metodología de usabilidad
 
-[Describe el "cómo"]
+Se realizaron pruebas con usuarios simulando escenarios de navegación habituales a través de herramientas de rastreo visual y formularios de satisfacción. Se aplicaron las siguientes técnicas:
+- Tareas guiadas (Localización de alérgenos en la carta y flujo completo de reserva de mesa).
+- Cuestionario SUS (System Usability Scale) para medir la usabilidad percibida.
+- Prueba de eye tracking (GazeMapping) para evaluar la jerarquía visual y detectar zonas de silencio.
 
-- **Perfil de los participantes:** Resumen de la tabla demográfica (edad media, nivel digital).
-- **Escenario de la prueba:** Descripción de las tareas que realizaron los usuarios.
-- **Herramientas:** Mención de **GazeMapping**, Tally y herramientas de accesibilidad.
+### Test de usuarios: Participantes
 
-## 3. Resultados del Cuestionario SUS (Datos Cuantitativos)
+| Usuario | Sexo/Edad | Ocupación | Exp. TIC | Personalidad | Plataforma | Caso |
+|---------|-----------|-----------|----------|--------------|------------|------|
+| U1B     | H / 20    | Estudiante| Alta     | Aventurero   | Web        | B    |
+| U2B     | M / 23    | Estudiante| Alta     | Introvertida | Web        | B    |
+| U3B     | M / 22    | Estudiante| Media    | Tímida       | Web        | B    |
+| U4B     | NB / 17   | Estudiante| Media    | Emocional    | Web        | B    |
+| U5B     | H / 25    | Médico    | Media-Baja| Extrovertido | Web        | B    |
 
-[Aquí se muestran datos del análisis multivariable de SUS] 
+### Resultados obtenidos
 
-- **Comparativa A vs. B:** Un gráfico de barras comparando la puntuación final de ambos diseños.
-- **Desglose por ítems:** Identifica qué preguntas del SUS tuvieron peor puntuación (por ejemplo, si la pregunta 2 sobre "complejidad" fue muy alta en el Diseño B).
+- **SUS Score promedio**: 60.00 (categoría: "Marginalmente Aceptable" / Grado D).
+- **Tareas guiadas**: Completadas con éxito por los perfiles más jóvenes (U1B, U4B), pero con severas ralentizaciones. El usuario con menor experiencia digital (U5B) sufrió un bloqueo crítico en el proceso de reserva.
+- **Eye Tracking**: Concentración masiva de fijaciones en las ilustraciones decorativas de los personajes (hotspots), dejando los precios, botones de compra y llamadas a la acción en zonas de total silencio visual.
 
-Valoración numérica del SUS - 
+---
 
+## 4. CONCLUSIONES
 
-## 4. Análisis de Eye Tracking (Datos Biométricos)
+El sitio web del Restaurante Ghibli destaca por una propuesta artística de altísimo nivel que genera un fuerte vínculo emocional con su público objetivo. Sin embargo, la usabilidad se ve seriamente comprometida al sacrificar la claridad funcional en favor de la estética. El sistema funciona aceptablemente bien para nativos digitales motivados por la temática, pero excluye a usuarios más tradicionales o con necesidades de accesibilidad.
 
-[Presenta la evidencia visual del comportamiento del usuario]
+### Incidencias
 
-- **Heatmaps (Mapas de calor):** Incluye las capturas de GazeMapping. Comenta si los usuarios miraron los **POI** (Puntos de Interés) definidos.
-- **Zonas de Silencio:** Identifica elementos importantes que fueron totalmente ignorados.
-- **Hallazgo clave:** Ejemplo: "El 80% de los usuarios ignoró el botón de CTA debido a su ubicación en el margen inferior".
+- Se identificó una polarización extrema en los resultados del SUS: mientras que el perfil más joven y emocional otorgó un 97.5, el perfil con competencias TIC medias-bajas hundió la métrica con un 15.0 debido a la frustración sufrida durante la navegación.
 
-## 5. Auditoría de Accesibilidad
+### Valoración
 
-Sintetiza el cumplimiento técnico y normativo.
+- Identidad visual única, inmersiva y altamente atractiva.
+- Excelente conexión emocional y fidelización potencial del nicho de mercado (fans de Ghibli).
+- Estructura básica presente, pero penalizada por una mala jerarquía de componentes.
 
-- **Puntuación Automática:** (Lighthouse/WAVE).
-- **Principales barreras:** Lista los errores críticos (contraste, falta de etiquetas, etc.) y cómo afectan a los usuarios con discapacidad.
+### Recomendaciones y propuesta de mejoras
 
-## 6. Conclusiones y Recomendaciones (Actionable Insights)
+- **Separar el arte del contenido:** Alojar la carta de platos y el formulario de reserva dentro de contenedores limpios con fondos sólidos y tipografías legibles.
+- **Aumentar el contraste del CTA:** Modificar el color de los botones principales (Reserva/Carrito) para que resalten inmediatamente sobre las ilustraciones de fondo según los criterios WCAG.
+- **Mejorar la navegación móvil y web:** Reemplazar el scroll infinito por un sistema de pestañas horizontales para categorizar los platos del menú de ramen.
+- **Añadir indicadores claros de acción:** Dotar a los elementos decorativos interactivos de un aspecto visual que deje claro que son botones cliqueables.
 
-No te limites a decir qué está mal; di cómo arreglarlo. Clasifica las recomendaciones por prioridad:
+### Valoración de la prueba de usabilidad (self-assessment)
 
-| **Prioridad**      | **Hallazgo**                                                 | **Recomendación de Mejora**                                  |
-| ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Alta (Crítica)** | Ej. El SUS indica alta complejidad y el Eye Tracking muestra confusión en el menú. | Simplificar la arquitectura de información y aumentar el tamaño de las fuentes. |
-| **Media**          | Ej. Los usuarios no ven el botón de registro rápidamente.        | Cambiar el color del CTA a uno de mayor contraste según WCAG. |
-| **Baja**           | Ej. El logo no redirige a la home.                               | Añadir el enlace estándar al logotipo en la cabecera.        |
-
-
-
+La comparativa cruzada de datos biométricos y escalas cuantitativas ha demostrado que una interfaz visualmente hermosa no es sinónimo de una interfaz usable. Evaluar el Caso B nos ha permitido entender el peligro real de ocultar las necesidades funcionales del negocio detrás del diseño artístico. El uso combinado de los mapas de calor de Eye Tracking y el desglose de ítems del SUS ha resultado indispensable para validar de forma empírica que el diseño centrado en el usuario debe anteponer siempre la eficiencia y la accesibilidad universal a la ornamentación visual.
