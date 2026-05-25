@@ -366,6 +366,9 @@ El grupo A, consisten en 5 usuarios anonimos para evaluar el caso A y el grupo B
 
 Los resultados del test SUS para **Cafetotal (Caso A)** demuestran una excelente usabilidad, consistencia y facilidad de uso en todo el espectro de usuarios analizado (de 24 a 61 años). La eliminación del registro obligatorio ha quitado la frustración, permitiendo que los clientes completen sus tareas con total autonomía y confianza, sin requerir aprendizaje previo ni asistencia externa. Mientras que el **Caso B** se apoya en un público exclusivamente joven y nativo digital (17-25 años), nuestra propuesta valida una accesibilidad universal mucho más robusta, demostrando que un diseño limpio y directo funciona eficazmente para cualquier perfil de usuario.
 
+[Cuestionario A](CuestionarioSUS.xlsx)
+[Cuestionario B](CuestionarioSUS.ods)
+
 
 ### 5.d A/B Testing
 ![Método UX](img/ABtesting.png) 
