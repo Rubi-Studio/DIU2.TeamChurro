@@ -26,10 +26,7 @@ La Goma es un espacio cultural y gastronómico vegano situado en Granada. Su pro
 
 Este documento recoge la evaluación de usabilidad del prototipo de La Goma mediante pruebas con usuarios reales, aplicando técnicas de A/B Testing, cuestionario SUS y eye tracking.
 
-**Principales problemas detectados:**
-- Dificultad para localizar la sección de reseñas.
-- Elementos importantes (como el selector de fecha o el menú lateral) no atraen suficiente atención visual.
-- Carga visual ligeramente elevada en dispositivos pequeños.
+Pensamos que hay un error crítico en la creación de la web, ya que se han centrado demasiado en la estética y eso provoca demasiadas distracciones y que no se entienda bien lo que queremos buscar ni a donde tenemos que ir, lo que hace que haya demasiada dispersión como se ha podido observar en el heatmap. Creemos que habría que modificar todo desde un inicio y dar algo menos de prioridad a la estética para centrarse en la funcionalidad de la web
 
 ---
 
