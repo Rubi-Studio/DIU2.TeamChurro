@@ -490,5 +490,7 @@ Los test de usabilidad muestran una accesibilidad universal muy sólida, funcion
 
 La comparativa directa con el Caso B sirvió de ejemplo para ver lo que hicimos bien y mal; aunque una interfaz sea inmersiva, gracias a una temática atractiva como la de Studio Ghibli, si sacrifica la arquitectura de la información y la claridad funcional, acabará penalizando la conversión y siendo más diferentes las reacciones.
 
+Basándonos en el estudio que el otro grupo ha hecho sobre nuestro proyecto, podemos decir que CaféTotal tiene un gran potencial visual, pero necesita madurar su contenido escrito y enriquecer el catálogo digital con fotografías reales. Al implementar estas correcciones, el proyecto no solo retendrá mejor la atención de los usuarios, sino que transformará de manera mucho más eficiente las visitas en pedidos reales.
+
 ### ¿Qué se puede mejorar?
 A pesar del éxito general de la propuesta, identificamos varios aspectos clave que podrían optimizarse en futuras iteraciones del proyecto. En primer lugar, pensamos que era fundamental ampliar la muestra de usuarios participantes en las pruebas de usabilidad, lo que permitiría mejorar los datos recopilados mediante el eye-tracking. Por último, creemos que dedicar más tiempo a la fase previa de wireframing mediante bocetos rápidos nos habría ayudado a explorar, testear y descartar algunos problemas de una manera mucho más ágil antes de dar el salto directo a la maquetación de componentes en Figma.
