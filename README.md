@@ -320,75 +320,175 @@ Enlace a la web de figma
 ![Método UX](img/usability-testing.png)
 -----
 
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
+El caso B es una web de un restaurante temático japonés de ramen ambientado en las películas de Studio Ghibli.
 
+[Link al caso B](https://github.com/JavierRG6/DIU1.HustleHard)
 
+#### Posibles situaciones conflictivas
+**Usuario1A** 
+Las webs de café de especialidad suelen basarse en un minimalismo extremo. Si la propuesta del Caso A esconde los horarios de apertura, la dirección o los precios con tipografías casi invisibles para mantener la estética limpia
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+**Usuario2A**
+Si la propuesta evaluada de la cafetería ofrece un diseño web antiguo o con fotos de stock en lugar de una interfaz moderna y "aesthetic" con transiciones suaves
+
+**Usuario1B**
+Si la web abusa de animaciones lentas (por ejemplo, transiciones tipo acuarela o un loading interactivo) o si el menú describe los platos poéticamente sin especificar de forma realista los ingredientes
+
+**Usuario2B** 
+Si la web incluye música ambiental de fondo que se reproduce sola, fuentes tipográficas mágicas/cursivas que complican la lectura, o elementos que flotan por la pantalla, se generará un conflicto de sobreestimulación
+
+| Usuarios  | Caso | Sexo/Edad | Ocupación   | Exp.TIC    | Personalidad | Plataforma |
+| --------- | ---- | --------- | ----------- | ---------- | ------------ | ---------- |
+| Usuario 1 | A    | H / 24    | Estudiante  | Media      | Introvertido | Web.       |
+| Usuario 2 | A    | H / 30    | Terapeuta   | Media      | Aventurero   | Web        |
+| Usuario 3 | A    | M / 28    | Estudiante  | Media      | Timida       | Web        |
+| Usuario 4 | A    | M / 61    | Enfermera   | Media      | Emocional    | Web        |
+| Usuario 5 | A    | H / 58    | Informatico | Media      | Extrovertido | Web        |
+| Usuario 1 | B    | H / 20    | Estudiante  | Alta       | Aventurero   | Web        |
+| Usuario 2 | B    | M / 23    | Estudiante  | Alta       | Introvertida | Web        |
+| Usuario 3 | B    | M / 22    | Estudiante  | Media      | Timida       | Web        |
+| Usuario 4 | B    | NB / 17   | Estudiante  | Media      | Emocional    | Web        |
+| Usuario 5 | B    | H / 25    | Médico      | Media-Baja | Extrovertido | Web        |
 
 
 ### 5.b Diseño de las pruebas 
 ![Método UX](img/usability-testing.png) 
 -----
 
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
+Las pruebas consistirán en un experimento controlado de seguimiento ocular (Eye-Tracking) emparejado con un test A/B para evaluar el comportamiento visual inconsciente de los usuarios frente a dos variantes de diseño.  
 
+El grupo A, consisten en 5 usuarios anonimos para evaluar el caso A y el grupo B serán otros 5 usuarios anonimos para evaluar el caso B.    
 
 
 ### 5.c Cuestionario SUS
 ![Método UX](img/Survey.png) 
 ----
 
->>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
->>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
+Los resultados del test SUS para **Cafetotal (Caso A)** demuestran una excelente usabilidad, consistencia y facilidad de uso en todo el espectro de usuarios analizado (de 24 a 61 años). La eliminación del registro obligatorio ha quitado la frustración, permitiendo que los clientes completen sus tareas con total autonomía y confianza, sin requerir aprendizaje previo ni asistencia externa. Mientras que el **Caso B** se apoya en un público exclusivamente joven y nativo digital (17-25 años), nuestra propuesta valida una accesibilidad universal mucho más robusta, demostrando que un diseño limpio y directo funciona eficazmente para cualquier perfil de usuario.
+
+[Cuestionario A](CuestionarioSUS.xlsx)
+[Cuestionario B](CuestionarioSUS.ods)
 
 
 ### 5.d A/B Testing
 ![Método UX](img/ABtesting.png) 
 -----
 
->>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
+ #### Caso A
+![](https://i.imgur.com/1SV9yFK.png)
+
+#### Caso B
+![](https://i.imgur.com/DBEesXv.png)
+
 
 ### 5.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
 ----
 
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
+Para la realización de las pruebas, con el uso de GazeMapping, hemos seleccionado puntos de interes en cada uno de los casos, pensando en donde nos interesa que se fijen los usuarios. Una vez hecho eso, se hace una calibración ocular de cada uno de los usuarios y se hace un rastreo de la mirada por ambos casos. Una vez hecho eso se guardan los datos de cada usuario y su mapa de calor para ver si el mapa coincide mas o menos con donde se pusieron los puntos de interes.
+![](https://i.imgur.com/xrxaPtz.jpeg)
 
-
-![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
-
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
+![](https://i.imgur.com/0qRHYbU.jpeg)
 
 
 ### 5.f Usability Report de B
 ![Método UX](img/usability-report.png) 
 -----
 
->>> Añadir report de usabilidad para práctica B (la de los compañeros) aportando resultados y valoración de cada debilidad de usabilidad. 
->>> Enlazar aqui con el archivo subido a P4/ que indica qué equipo evalua a qué otro equipo.
+# Usability Report
 
->>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
+![usability Download png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF017nhV-TFmNER2OM8UbXtdN6xwAKBYrv0i6onNfKu6Yn0BV0RK6aiOroeXl73LSY-B0&usqp=CAU)
 
+#### Evaluación de usabilidad del proyecto
 
+### Restaurante Temático Ghibli (Caso B)
+
+### 25/05/2026
+
+[Enlace a GITHUB del proyecto: https://github.com/usuario/diu-ramen-ghibli]
+
+### Realizado por:
+
+Este informe ha sido realizado por el equipo del proyecto **Cafetotal**, dentro de la Práctica 5 de la asignatura DIU. Contamos con experiencia previa en la definición de arquitectura de información, diseño de wireframes simplificados y la evaluación de la experiencia de usuario mediante herramientas de recogida de datos cuantitativos (Tally/SUS) y biométricos (GazeMapping).
+
+---
+
+## 1. DESCRIPCIÓN DEL WEBSITE
+
+El sitio web evaluado corresponde a un restaurante temático japonés de ramen ambientado en el universo visual de las películas de Studio Ghibli. Su propuesta digital busca sumergir al usuario en una experiencia nostálgica y mágica mientras facilita acciones comerciales esenciales como la consulta de la carta de platos, la verificación de alérgenos y la reserva de mesas temáticas en el local.
+
+---
+
+## 2. RESUMEN EJECUTIVO
+
+Este documento recoge la evaluación de usabilidad de la plataforma del Restaurante Ghibli (Caso B) mediante pruebas con usuarios reales, aplicando técnicas de tareas guiadas, cuestionario SUS y análisis predictivo de seguimiento ocular (Eye Tracking).
+
+Pensamos que hay un error crítico en la creación de la web, ya que se han centrado demasiado en la estética y eso provoca demasiadas distracciones y que no se entienda bien lo que queremos buscar ni a donde tenemos que ir, lo que hace que haya demasiada dispersión como se ha podido observar en el heatmap. Creemos que habría que modificar todo desde un inicio y dar algo menos de prioridad a la estética para centrarse en la funcionalidad de la web
+
+---
+
+## 3. METODOLOGÍA
+
+### Metodología de usabilidad
+
+Se realizaron pruebas con usuarios simulando escenarios de navegación habituales a través de herramientas de rastreo visual y formularios de satisfacción. Se aplicaron las siguientes técnicas:
+- Tareas guiadas (Localización de alérgenos en la carta y flujo completo de reserva de mesa).
+- Cuestionario SUS (System Usability Scale) para medir la usabilidad percibida.
+- Prueba de eye tracking (GazeMapping) para evaluar la jerarquía visual y detectar zonas de silencio.
+
+### Test de usuarios: Participantes
+
+| Usuario | Sexo/Edad | Ocupación | Exp. TIC | Personalidad | Plataforma | Caso |
+|---------|-----------|-----------|----------|--------------|------------|------|
+| U1B     | H / 20    | Estudiante| Alta     | Aventurero   | Web        | B    |
+| U2B     | M / 23    | Estudiante| Alta     | Introvertida | Web        | B    |
+| U3B     | M / 22    | Estudiante| Media    | Tímida       | Web        | B    |
+| U4B     | NB / 17   | Estudiante| Media    | Emocional    | Web        | B    |
+| U5B     | H / 25    | Médico    | Media-Baja| Extrovertido | Web        | B    |
+
+### Resultados obtenidos
+
+- **SUS Score promedio**: 56.5 (categoría: "OK" / Grado D).
+- **Tareas guiadas**: Completadas con éxito por los perfiles más jóvenes (U1B, U4B), pero con severas ralentizaciones. El usuario con menor experiencia digital (U5B) sufrió un bloqueo crítico en el proceso de reserva.
+- **Eye Tracking**: Concentración masiva de fijaciones en las ilustraciones decorativas de los personajes (hotspots), dejando los precios, botones de compra y llamadas a la acción en zonas de total silencio visual.
+
+---
+
+## 4. CONCLUSIONES
+
+El sitio web del Restaurante Ghibli destaca por una propuesta artística de altísimo nivel que genera un fuerte vínculo emocional con su público objetivo. Sin embargo, la usabilidad se ve seriamente comprometida al sacrificar la claridad funcional en favor de la estética. El sistema funciona aceptablemente bien para nativos digitales motivados por la temática, pero excluye a usuarios más tradicionales o con necesidades de accesibilidad.
+
+### Incidencias
+
+- Se identificó una polarización extrema en los resultados del SUS: mientras que el perfil más joven y emocional otorgó un 97.5, el perfil con competencias TIC medias-bajas hundió la métrica con un 15.0 debido a la frustración sufrida durante la navegación.
+
+### Valoración
+
+- Identidad visual única, inmersiva y altamente atractiva.
+- Excelente conexión emocional y fidelización potencial del nicho de mercado (fans de Ghibli).
+- Estructura básica presente, pero penalizada por una mala jerarquía de componentes.
+
+### Recomendaciones y propuesta de mejoras
+
+- **Separar el arte del contenido:** Alojar la carta de platos y el formulario de reserva dentro de contenedores limpios con fondos sólidos y tipografías legibles.
+- **Aumentar el contraste del CTA:** Modificar el color de los botones principales (Reserva/Carrito) para que resalten inmediatamente sobre las ilustraciones de fondo según los criterios WCAG.
+- **Mejorar la navegación móvil y web:** Reemplazar el scroll infinito por un sistema de pestañas horizontales para categorizar los platos del menú de ramen.
+- **Añadir indicadores claros de acción:** Dotar a los elementos decorativos interactivos de un aspecto visual que deje claro que son botones cliqueables.
+
+### Valoración de la prueba de usabilidad (self-assessment)
+
+La comparativa cruzada de datos biométricos y escalas cuantitativas ha demostrado que una interfaz visualmente hermosa no es sinónimo de una interfaz usable. Evaluar el Caso B nos ha permitido entender el peligro real de ocultar las necesidades funcionales del negocio detrás del diseño artístico. El uso combinado de los mapas de calor de Eye Tracking y el desglose de ítems del SUS ha resultado indispensable para validar de forma empírica que el diseño centrado en el usuario debe anteponer siempre la eficiencia y la accesibilidad universal a la ornamentación visual.
 
 <br>
 
-
-
 ## Conclusiones finales & Valoración de las prácticas
 
+### Valoración de los resultados
+Los resultados globales son buenos. Logramos validar que las ideas planteadas en la etapa de ideación eran ciertas, ya que al meter el patrón de compra como invitado  y dividir de forma clara las partes de clientes de cafetería y soluciones corporativas de vending se eliminó la frustración del sitio web original. 
 
->>> Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos. ¿Qué se puede mejorar? Recuerda que este tipo de texto se debe eliminar del template que se os proporciona 
+Los test de usabilidad muestran una accesibilidad universal muy sólida, funcionando en un espectro demográfico amplio (desde usuarios jóvenes de 24 años hasta perfiles de 61).
 
+La comparativa directa con el Caso B sirvió de ejemplo para ver lo que hicimos bien y mal; aunque una interfaz sea inmersiva, gracias a una temática atractiva como la de Studio Ghibli, si sacrifica la arquitectura de la información y la claridad funcional, acabará penalizando la conversión y siendo más diferentes las reacciones.
 
+Basándonos en el estudio que el otro grupo ha hecho sobre nuestro proyecto, podemos decir que CaféTotal tiene un gran potencial visual, pero necesita madurar su contenido escrito y enriquecer el catálogo digital con fotografías reales. Al implementar estas correcciones, el proyecto no solo retendrá mejor la atención de los usuarios, sino que transformará de manera mucho más eficiente las visitas en pedidos reales.
 
